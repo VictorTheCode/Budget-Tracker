@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* @media (max-width: 480px) {
+    .wrapper {
+        width: 100%;
+    }
+}
+
+@media (max-width: 235px) {
+    .description {
+        font-size: 1rem;
+    }
+}
+ */
